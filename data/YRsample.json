@@ -1,0 +1,48 @@
+{
+    "businesses": [
+        {
+            "id": "RCWAP_hvs4mUkERacEBiVg",
+            "alias": "circle-w-fargo",
+            "name": "Circle W",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/circle-w-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 36.4514007568359,
+                "longitude": -99.7020797729492
+            },
+            "transactions": [],
+            "location": {
+                "address1": "S Of City",
+                "address2": null,
+                "address3": null,
+                "city": "Fargo",
+                "zip_code": "73840",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "S Of City",
+                    "Fargo, OK 73840"
+                ]
+            },
+            "phone": "+15806982660",
+            "display_phone": "(580) 698-2660",
+            "distance": 72.97664902263541
+        }
+    ],
+    "total": 1,
+    "region": {
+        "center": {
+            "longitude": -99.62325096130371,
+            "latitude": 36.3756159312327
+        }
+    }
+}

@@ -1,0 +1,535 @@
+{
+    "results": [
+        {
+            "fsq_id": "4ddc200a1838306b81ff5347",
+            "categories": [
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 191,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 46.874416,
+                    "longitude": -96.788447
+                },
+                "main": {
+                    "latitude": 46.874184,
+                    "longitude": -96.788459
+                },
+                "roof": {
+                    "latitude": 46.874184,
+                    "longitude": -96.788459
+                }
+            },
+            "link": "/v3/places/4ddc200a1838306b81ff5347",
+            "location": {
+                "address": "606 Main Ave",
+                "census_block": "380170007002031",
+                "country": "US",
+                "cross_street": "at Broadway",
+                "dma": "Fargo-Valley City",
+                "formatted_address": "606 Main Ave (at Broadway), Fargo, ND 58103",
+                "locality": "Fargo",
+                "postcode": "58103",
+                "region": "ND"
+            },
+            "name": "Rhombus Guys",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5575c038498efe5cbe6af881",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13031,
+                    "name": "Burger Joint",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13314,
+                    "name": "New American Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 250,
+            "geocodes": {
+                "front_door": {
+                    "latitude": 46.876821,
+                    "longitude": -96.78831
+                },
+                "main": {
+                    "latitude": 46.87491,
+                    "longitude": -96.7884
+                }
+            },
+            "link": "/v3/places/5575c038498efe5cbe6af881",
+            "location": {
+                "address": "612 1st Ave N",
+                "census_block": "380170007002005",
+                "country": "US",
+                "cross_street": "Broadway",
+                "dma": "Fargo-Valley City",
+                "formatted_address": "612 1st Ave N (Broadway), Fargo, ND 58102",
+                "locality": "Fargo",
+                "postcode": "58102",
+                "region": "ND"
+            },
+            "name": "Pounds",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "554e7890498e1a6ae33197d5",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13026,
+                    "name": "BBQ Joint",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 363,
+            "geocodes": {
+                "main": {
+                    "latitude": 46.876155,
+                    "longitude": -96.788276
+                },
+                "roof": {
+                    "latitude": 46.876155,
+                    "longitude": -96.788276
+                }
+            },
+            "link": "/v3/places/554e7890498e1a6ae33197d5",
+            "location": {
+                "address": "609 Np Ave N",
+                "census_block": "380170007002012",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Fargo-Valley City",
+                "formatted_address": "609 Np Ave N, Fargo, ND 58102",
+                "locality": "Fargo",
+                "postcode": "58102",
+                "region": "ND"
+            },
+            "name": "NoBull Smokehouse",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b87fc98f964a52011d731e3",
+            "categories": [
+                {
+                    "id": 13002,
+                    "name": "Bakery",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13046,
+                    "name": "Ice Cream Parlor",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 370,
+            "geocodes": {
+                "main": {
+                    "latitude": 46.87391,
+                    "longitude": -96.791415
+                },
+                "roof": {
+                    "latitude": 46.87391,
+                    "longitude": -96.791415
+                }
+            },
+            "link": "/v3/places/4b87fc98f964a52011d731e3",
+            "location": {
+                "address": "13 8th St S",
+                "census_block": "380170007002034",
+                "country": "US",
+                "cross_street": "at Main Ave",
+                "dma": "Fargo-Valley City",
+                "formatted_address": "13 8th St S (at Main Ave), Fargo, ND 58103",
+                "locality": "Fargo",
+                "postcode": "58103",
+                "region": "ND"
+            },
+            "name": "Nichole's Fine Pastry",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5c7b3b168a6f17002ce29e0d",
+            "categories": [
+                {
+                    "id": 13302,
+                    "name": "Mediterranean Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13309,
+                    "name": "Middle Eastern Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 399,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 46.876635,
+                    "longitude": -96.787693
+                },
+                "main": {
+                    "latitude": 46.876642,
+                    "longitude": -96.787998
+                },
+                "roof": {
+                    "latitude": 46.876642,
+                    "longitude": -96.787998
+                }
+            },
+            "link": "/v3/places/5c7b3b168a6f17002ce29e0d",
+            "location": {
+                "address": "68 Broadway N",
+                "census_block": "380170007002005",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Fargo-Valley City",
+                "formatted_address": "68 Broadway N, Fargo, ND 58102",
+                "locality": "Fargo",
+                "postcode": "58102",
+                "region": "ND"
+            },
+            "name": "Ishtar Mediterranean Cuisine",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "52c6084b498ed1cd40c01154",
+            "categories": [
+                {
+                    "id": 13007,
+                    "name": "Beer Garden",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13165,
+                    "name": "German Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/german_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 435,
+            "geocodes": {
+                "main": {
+                    "latitude": 46.876749,
+                    "longitude": -96.788315
+                },
+                "roof": {
+                    "latitude": 46.876749,
+                    "longitude": -96.788315
+                }
+            },
+            "link": "/v3/places/52c6084b498ed1cd40c01154",
+            "location": {
+                "address": "630 1st Ave N",
+                "census_block": "380170007002005",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Fargo-Valley City",
+                "formatted_address": "630 1st Ave N, Fargo, ND 58102",
+                "locality": "Fargo",
+                "postcode": "58102",
+                "region": "ND"
+            },
+            "name": "W\u00fcrst Bier Hall",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b33d49ef964a520142025e3",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13031,
+                    "name": "Burger Joint",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 436,
+            "geocodes": {
+                "main": {
+                    "latitude": 46.87679,
+                    "longitude": -96.787114
+                },
+                "roof": {
+                    "latitude": 46.87679,
+                    "longitude": -96.787114
+                }
+            },
+            "link": "/v3/places/4b33d49ef964a520142025e3",
+            "location": {
+                "address": "518 1st Ave N",
+                "census_block": "380170007002004",
+                "country": "US",
+                "cross_street": "btwn Broadway & 5th St.",
+                "dma": "Fargo-Valley City",
+                "formatted_address": "518 1st Ave N (btwn Broadway & 5th St.), Fargo, ND 58102",
+                "locality": "Fargo",
+                "postcode": "58102",
+                "region": "ND"
+            },
+            "name": "JL Beers",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "52435e12498e95641e400072",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13305,
+                    "name": "Burrito Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burrito_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13306,
+                    "name": "Taco Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/taco_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 440,
+            "geocodes": {
+                "main": {
+                    "latitude": 46.876769,
+                    "longitude": -96.787203
+                },
+                "roof": {
+                    "latitude": 46.876769,
+                    "longitude": -96.787203
+                }
+            },
+            "link": "/v3/places/52435e12498e95641e400072",
+            "location": {
+                "address": "520 1st Ave N",
+                "census_block": "380170007002004",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Fargo-Valley City",
+                "formatted_address": "520 1st Ave N, Fargo, ND 58102",
+                "locality": "Fargo",
+                "postcode": "58102",
+                "region": "ND"
+            },
+            "name": "Vinyl Taco",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b4fb6bdf964a5202b1227e3",
+            "categories": [
+                {
+                    "id": 13303,
+                    "name": "Mexican Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 448,
+            "geocodes": {
+                "main": {
+                    "latitude": 46.874334,
+                    "longitude": -96.791917
+                },
+                "roof": {
+                    "latitude": 46.874334,
+                    "longitude": -96.791917
+                }
+            },
+            "link": "/v3/places/4b4fb6bdf964a5202b1227e3",
+            "location": {
+                "address": "814 Main Ave",
+                "census_block": "380170007002034",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Fargo-Valley City",
+                "formatted_address": "814 Main Ave, Fargo, ND 58103",
+                "locality": "Fargo",
+                "postcode": "58103",
+                "region": "ND"
+            },
+            "name": "Mexican Village",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4c363fee2c8020a11bff8600",
+            "categories": [
+                {
+                    "id": 13039,
+                    "name": "Deli",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4bee40-d68a-012e-5619-003048cad9da",
+                    "name": "Subway"
+                }
+            ],
+            "distance": 504,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 46.877574,
+                    "longitude": -96.787687
+                },
+                "main": {
+                    "latitude": 46.877575,
+                    "longitude": -96.787365
+                },
+                "roof": {
+                    "latitude": 46.877575,
+                    "longitude": -96.787365
+                }
+            },
+            "link": "/v3/places/4c363fee2c8020a11bff8600",
+            "location": {
+                "address": "115 Broadway N",
+                "census_block": "380170007001025",
+                "country": "US",
+                "dma": "Fargo-Valley City",
+                "formatted_address": "115 Broadway N, Fargo, ND 58102",
+                "locality": "Fargo",
+                "postcode": "58102",
+                "region": "ND"
+            },
+            "name": "Subway",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        }
+    ],
+    "context": {
+        "geo_bounds": {
+            "circle": {
+                "center": {
+                    "latitude": 46.8731,
+                    "longitude": -96.78644
+                },
+                "radius": 22000
+            }
+        }
+    }
+}

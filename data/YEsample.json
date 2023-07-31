@@ -1,0 +1,865 @@
+{
+    "businesses": [
+        {
+            "id": "-KXkLu9pg-07eFNTATS7iw",
+            "alias": "west-acres-fargo-2",
+            "name": "West Acres",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UrZUUcpEeD4BySDwD4Y6HA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/west-acres-fargo-2?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "shoppingcenters",
+                    "title": "Shopping Centers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 46.85924743408117,
+                "longitude": -96.84672008220892
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3902 13th Ave S",
+                "address2": "Ste 3717",
+                "address3": "",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "3902 13th Ave S",
+                    "Ste 3717",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012822222",
+            "display_phone": "(701) 282-2222",
+            "distance": 2631.416540426541
+        },
+        {
+            "id": "rDwaPDpB9K22d1t9jIf15Q",
+            "alias": "minn-dak-market-fargo",
+            "name": "Minn Dak Market",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sHW5st2_d9myaYAtDGvJnQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/minn-dak-market-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "gourmet",
+                    "title": "Specialty Food"
+                },
+                {
+                    "alias": "giftshops",
+                    "title": "Gift Shops"
+                },
+                {
+                    "alias": "popupshops",
+                    "title": "Pop-up Shops"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 46.85873937046532,
+                "longitude": -96.84794685201211
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3902 13th Ave S",
+                "address2": "",
+                "address3": null,
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "3902 13th Ave S",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17015321371",
+            "display_phone": "(701) 532-1371",
+            "distance": 2636.6256525458098
+        },
+        {
+            "id": "vkD-WKYKSadDnkYTkjdNyA",
+            "alias": "tj-maxx-fargo",
+            "name": "TJ Maxx",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1UE8MpyawhRXViQBptrGKQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tj-maxx-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 46.860033,
+                "longitude": -96.856822
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4340 13th Ave S",
+                "address2": "",
+                "address3": "",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "4340 13th Ave S",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012771435",
+            "display_phone": "(701) 277-1435",
+            "distance": 3151.1600632955747
+        },
+        {
+            "id": "__oqHM41E1bPLUv4fbMhBw",
+            "alias": "unclaimed-freight-furniture-fargo",
+            "name": "Unclaimed Freight Furniture",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4MRldk_YBX8fn6xLqhm0dg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/unclaimed-freight-furniture-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "furniture",
+                    "title": "Furniture Stores"
+                },
+                {
+                    "alias": "mattresses",
+                    "title": "Mattresses"
+                },
+                {
+                    "alias": "rugs",
+                    "title": "Rugs"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 46.84144,
+                "longitude": -96.79753
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2520 South University Dr",
+                "address2": null,
+                "address3": null,
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "2520 South University Dr",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012373360",
+            "display_phone": "(701) 237-3360",
+            "distance": 2304.755564475566
+        },
+        {
+            "id": "16woz5FcJ8g3PNGnEexA3w",
+            "alias": "macys-fargo",
+            "name": "Macy's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jZfeBpid9nTEM7fCfJoCPQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/macys-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                },
+                {
+                    "alias": "menscloth",
+                    "title": "Men's Clothing"
+                },
+                {
+                    "alias": "womenscloth",
+                    "title": "Women's Clothing"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 46.858598636820574,
+                "longitude": -96.84654143476926
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3902 13th Ave S",
+                "address2": "Ste 2500",
+                "address3": "West Acres Mall",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "3902 13th Ave S",
+                    "Ste 2500",
+                    "West Acres Mall",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012816300",
+            "display_phone": "(701) 281-6300",
+            "distance": 2563.543694336688
+        },
+        {
+            "id": "iEXh4Qa6akiK3Tu1ZPCqJA",
+            "alias": "jcpenney-fargo",
+            "name": "JCPenney",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/D4B1sMY8oaJLFV3tT8meJA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jcpenney-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                },
+                {
+                    "alias": "womenscloth",
+                    "title": "Women's Clothing"
+                },
+                {
+                    "alias": "childcloth",
+                    "title": "Children's Clothing"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 46.8570452667916,
+                "longitude": -96.8481749040484
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3902 13th Ave SW",
+                "address2": "Ste 200",
+                "address3": null,
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "3902 13th Ave SW",
+                    "Ste 200",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012829770",
+            "display_phone": "(701) 282-9770",
+            "distance": 2495.5404075949905
+        },
+        {
+            "id": "kHJwKXlb6nsKsEtIaWkrMg",
+            "alias": "comic-junction-fargo",
+            "name": "Comic Junction",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IA31WBZZu6gzxLta7w_enQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/comic-junction-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "comicbooks",
+                    "title": "Comic Books"
+                },
+                {
+                    "alias": "toys",
+                    "title": "Toy Stores"
+                },
+                {
+                    "alias": "tabletopgames",
+                    "title": "Tabletop Games"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 46.8546985986275,
+                "longitude": -96.7987868521149
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1621 S University Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "1621 S University Dr",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012327121",
+            "display_phone": "(701) 232-7121",
+            "distance": 2802.1705525821503
+        },
+        {
+            "id": "qcwOKVOp9ZZtGYiIuALs7g",
+            "alias": "evereve-west-acres-fargo",
+            "name": "EVEREVE - West Acres",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6O5bHAYfEN4cCRlVQ5GMXw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/evereve-west-acres-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "womenscloth",
+                    "title": "Women's Clothing"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 46.85974709092074,
+                "longitude": -96.84821710198212
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "3902 13th Ave S",
+                "address2": "",
+                "address3": "West Acres Mall",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "3902 13th Ave S",
+                    "West Acres Mall",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17013649150",
+            "display_phone": "(701) 364-9150",
+            "distance": 2740.511715680962
+        },
+        {
+            "id": "j8KKn0FQ9BqrYbpo2izP6g",
+            "alias": "target-fargo",
+            "name": "Target",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IFso72vurlK0k4HcO6wBcg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/target-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                },
+                {
+                    "alias": "furniture",
+                    "title": "Furniture Stores"
+                },
+                {
+                    "alias": "electronics",
+                    "title": "Electronics"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 46.860023541487706,
+                "longitude": -96.85209535276115
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4202 13th Ave SW",
+                "address2": "",
+                "address3": "",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "4202 13th Ave SW",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012827400",
+            "display_phone": "(701) 282-7400",
+            "distance": 2940.164971959405
+        },
+        {
+            "id": "uVeqYwkriEHnn9YpL52Lpw",
+            "alias": "mills-fleet-farm-fargo",
+            "name": "Mills Fleet Farm",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L8B__lInKewEnQNA6GsfXw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mills-fleet-farm-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                },
+                {
+                    "alias": "outdoorgear",
+                    "title": "Outdoor Gear"
+                },
+                {
+                    "alias": "huntingfishingsupplies",
+                    "title": "Hunting & Fishing Supplies"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 46.822605,
+                "longitude": -96.83567
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3730 36th St S",
+                "address2": "",
+                "address3": "",
+                "city": "Fargo",
+                "zip_code": "58104",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "3730 36th St S",
+                    "Fargo, ND 58104"
+                ]
+            },
+            "phone": "+17012987700",
+            "display_phone": "(701) 298-7700",
+            "distance": 1950.4967374091348
+        },
+        {
+            "id": "WmkeVP_zsQsKX90Rj0QC-w",
+            "alias": "almost-famous-body-piercing-fargo",
+            "name": "Almost Famous Body Piercing",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5WlQWu7lpoRXpFyRUs0jGw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/almost-famous-body-piercing-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "jewelry",
+                    "title": "Jewelry"
+                },
+                {
+                    "alias": "piercing",
+                    "title": "Piercing"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 46.85900652,
+                "longitude": -96.84666827
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3902 13th Ave S",
+                "address2": "Ste 213",
+                "address3": "",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "3902 13th Ave S",
+                    "Ste 213",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17014923955",
+            "display_phone": "(701) 492-3955",
+            "distance": 2606.7799728372916
+        },
+        {
+            "id": "zb-F588Zq41aib1qEOux0w",
+            "alias": "burlington-fargo-2",
+            "name": "Burlington",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fb5loyEpbKxmeHP_lzySFA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burlington-fargo-2?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 46.8630523681641,
+                "longitude": -96.8546981811523
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4305 13th Ave S",
+                "address2": null,
+                "address3": null,
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "4305 13th Ave S",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012771875",
+            "display_phone": "(701) 277-1875",
+            "distance": 3366.4002240303457
+        },
+        {
+            "id": "6hCiSIHxO-yKQ0EIhoL8DA",
+            "alias": "kohls-fargo-fargo",
+            "name": "Kohl's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yWklXNxScJT690t9aFkQ_w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kohls-fargo-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                },
+                {
+                    "alias": "menscloth",
+                    "title": "Men's Clothing"
+                },
+                {
+                    "alias": "womenscloth",
+                    "title": "Women's Clothing"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 46.86028,
+                "longitude": -96.86105
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4444 13th Ave S",
+                "address2": "",
+                "address3": "",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "4444 13th Ave S",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012778277",
+            "display_phone": "(701) 277-8277",
+            "distance": 3387.761669869345
+        },
+        {
+            "id": "wqSMR68H0PhWVKOtBha92Q",
+            "alias": "dollar-tree-fargo",
+            "name": "Dollar Tree",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5yVeHxQ57G7sLVvpCzwjEg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dollar-tree-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "discountstore",
+                    "title": "Discount Store"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 46.86327,
+                "longitude": -96.86054
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4427 13th Ave S",
+                "address2": "Ste 3",
+                "address3": null,
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "4427 13th Ave S",
+                    "Ste 3",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012829781",
+            "display_phone": "(701) 282-9781",
+            "distance": 3673.8421532046195
+        },
+        {
+            "id": "gEMar9mf10ulwWbggt04Pg",
+            "alias": "chicos-fargo",
+            "name": "Chico's",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chicos-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "womenscloth",
+                    "title": "Women's Clothing"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 46.859182,
+                "longitude": -96.846907
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3902 13th Ave S",
+                "address2": "Ste 2325",
+                "address3": "West Acres Shopping Center",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "3902 13th Ave S",
+                    "Ste 2325",
+                    "West Acres Shopping Center",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012773144",
+            "display_phone": "(701) 277-3144",
+            "distance": 2584.5367285134216
+        },
+        {
+            "id": "puszzIEyIU6Okqz2c44-zQ",
+            "alias": "big-nicks-sports-cards-fargo",
+            "name": "Big Nicks Sports Cards",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/big-nicks-sports-cards-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "hobbyshops",
+                    "title": "Hobby Shops"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 46.85945,
+                "longitude": -96.84599
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "3902 13th Ave S",
+                "address2": "",
+                "address3": "",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "3902 13th Ave S",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012771989",
+            "display_phone": "(701) 277-1989",
+            "distance": 2584.5367285117086
+        },
+        {
+            "id": "eyMER9IkZHvZY_lP0YfOeg",
+            "alias": "classic-jewelers-fargo",
+            "name": "Classic Jewelers",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9nGtPjoe7PXS4VNwDhw-jg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/classic-jewelers-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "jewelry",
+                    "title": "Jewelry"
+                },
+                {
+                    "alias": "appraisalservices",
+                    "title": "Appraisal Services"
+                },
+                {
+                    "alias": "jewelryrepair",
+                    "title": "Jewelry Repair"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 46.8611,
+                "longitude": -96.85462
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4302 13th Ave S",
+                "address2": "Ste 19",
+                "address3": "",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "4302 13th Ave S",
+                    "Ste 19",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012820990",
+            "display_phone": "(701) 282-0990",
+            "distance": 3164.3227863748516
+        },
+        {
+            "id": "WiQ6Gnyuwfzmog-TUWdUsA",
+            "alias": "platos-closet-fargo-fargo",
+            "name": "Plato's Closet Fargo",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sMdHGBM6Outi0F_B6E91uQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/platos-closet-fargo-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "vintage",
+                    "title": "Used, Vintage & Consignment"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 46.8410224914551,
+                "longitude": -96.8632583618164
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "2551 45th St S",
+                "address2": "",
+                "address3": "",
+                "city": "Fargo",
+                "zip_code": "58104",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "2551 45th St S",
+                    "Fargo, ND 58104"
+                ]
+            },
+            "phone": "+17013563800",
+            "display_phone": "(701) 356-3800",
+            "distance": 2709.018524486827
+        },
+        {
+            "id": "YlQer8guky4IfgXqWZh10A",
+            "alias": "forever-21-fargo",
+            "name": "Forever 21",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mM-7j5MwdyL3fOkUcMuzAg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/forever-21-fargo?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "accessories",
+                    "title": "Accessories"
+                },
+                {
+                    "alias": "womenscloth",
+                    "title": "Women's Clothing"
+                },
+                {
+                    "alias": "menscloth",
+                    "title": "Men's Clothing"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 46.85950750355289,
+                "longitude": -96.84569102753709
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1629 13th Ave S",
+                "address2": "Ste 1629",
+                "address3": null,
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "1629 13th Ave S",
+                    "Ste 1629",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012814585",
+            "display_phone": "(701) 281-4585",
+            "distance": 2614.674642641062
+        },
+        {
+            "id": "juvBSsP09Fe_lZGJdbIpWw",
+            "alias": "shirt-shop-in-the-mall-fargo-2",
+            "name": "Shirt Shop In The Mall",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shirt-shop-in-the-mall-fargo-2?adjust_creative=J5h1CC8CMU8IXoLGgPFmjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=J5h1CC8CMU8IXoLGgPFmjA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "menscloth",
+                    "title": "Men's Clothing"
+                },
+                {
+                    "alias": "womenscloth",
+                    "title": "Women's Clothing"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 46.85945,
+                "longitude": -96.84599
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3902 13th Ave S",
+                "address2": "",
+                "address3": "West Acres Regional Shopping Center",
+                "city": "Fargo",
+                "zip_code": "58103",
+                "country": "US",
+                "state": "ND",
+                "display_address": [
+                    "3902 13th Ave S",
+                    "West Acres Regional Shopping Center",
+                    "Fargo, ND 58103"
+                ]
+            },
+            "phone": "+17012823728",
+            "display_phone": "(701) 282-3728",
+            "distance": 2584.5367285134216
+        }
+    ],
+    "total": 22,
+    "region": {
+        "center": {
+            "longitude": -96.8280029296875,
+            "latitude": 46.8393436081792
+        }
+    }
+}
