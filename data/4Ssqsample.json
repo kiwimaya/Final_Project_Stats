@@ -1,0 +1,307 @@
+{
+    "results": [
+        {
+            "type": "place",
+            "text": {
+                "primary": "Center Mall North",
+                "secondary": "10 4th St N, Moorhead, MN 56560",
+                "highlight": [
+                    {
+                        "start": 7,
+                        "length": 4
+                    }
+                ]
+            },
+            "link": "/v3/places/8bc12391097d4cdbd08fd602",
+            "place": {
+                "fsq_id": "8bc12391097d4cdbd08fd602",
+                "categories": [
+                    {
+                        "id": 17115,
+                        "name": "Shopping Plaza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "distance": 3303,
+                "geocodes": {
+                    "main": {
+                        "latitude": 46.876805,
+                        "longitude": -96.775784
+                    },
+                    "roof": {
+                        "latitude": 46.876805,
+                        "longitude": -96.775784
+                    }
+                },
+                "location": {
+                    "address": "10 4th St N",
+                    "census_block": "270270203002004",
+                    "country": "US",
+                    "dma": "Fargo-Valley City",
+                    "formatted_address": "10 4th St N, Moorhead, MN 56560",
+                    "locality": "Moorhead",
+                    "postcode": "56560",
+                    "region": "MN"
+                },
+                "name": "Center Mall North"
+            }
+        },
+        {
+            "type": "place",
+            "text": {
+                "primary": "Malloy Electric",
+                "secondary": "3207 Main Ave, Fargo, ND 58103",
+                "highlight": [
+                    {
+                        "start": 0,
+                        "length": 4
+                    }
+                ]
+            },
+            "link": "/v3/places/809dca001e18012f487f54d8",
+            "place": {
+                "fsq_id": "809dca001e18012f487f54d8",
+                "categories": [
+                    {
+                        "id": 11000,
+                        "name": "Business and Professional Services",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "distance": 3830,
+                "geocodes": {
+                    "main": {
+                        "latitude": 46.876638,
+                        "longitude": -96.831251
+                    },
+                    "roof": {
+                        "latitude": 46.876638,
+                        "longitude": -96.831251
+                    }
+                },
+                "location": {
+                    "address": "3207 Main Ave",
+                    "address_extended": "Ste C",
+                    "census_block": "380170006011001",
+                    "country": "US",
+                    "dma": "Fargo-Valley City",
+                    "formatted_address": "3207 Main Ave, Fargo, ND 58103",
+                    "locality": "Fargo",
+                    "postcode": "58103",
+                    "region": "ND"
+                },
+                "name": "Malloy Electric"
+            }
+        },
+        {
+            "type": "place",
+            "text": {
+                "primary": "Moorhead Center Mall",
+                "secondary": "510 Center Ave, Moorhead, MN 56560",
+                "highlight": [
+                    {
+                        "start": 16,
+                        "length": 4
+                    }
+                ]
+            },
+            "link": "/v3/places/4b68d814f964a520be8f2be3",
+            "place": {
+                "fsq_id": "4b68d814f964a520be8f2be3",
+                "categories": [
+                    {
+                        "id": 17114,
+                        "name": "Shopping Mall",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "distance": 3518,
+                "geocodes": {
+                    "main": {
+                        "latitude": 46.875742,
+                        "longitude": -96.772614
+                    },
+                    "roof": {
+                        "latitude": 46.875742,
+                        "longitude": -96.772614
+                    }
+                },
+                "location": {
+                    "address": "510 Center Ave",
+                    "census_block": "270270203002006",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "Fargo-Valley City",
+                    "formatted_address": "510 Center Ave, Moorhead, MN 56560",
+                    "locality": "Moorhead",
+                    "postcode": "56560",
+                    "region": "MN"
+                },
+                "name": "Moorhead Center Mall"
+            }
+        },
+        {
+            "type": "search",
+            "text": {
+                "primary": "Malls",
+                "secondary": "Search for malls",
+                "highlight": [
+                    {
+                        "start": 0,
+                        "length": 4
+                    }
+                ]
+            },
+            "link": "/v3/places/search?ll=46.90244%2C-96.7978&radius=4000&query=malls",
+            "search": {
+                "query": "malls"
+            }
+        },
+        {
+            "type": "place",
+            "text": {
+                "primary": "Crafters Mall Crafts by Hand",
+                "secondary": "4101 13th Ave S, Fargo, ND 58103",
+                "highlight": [
+                    {
+                        "start": 9,
+                        "length": 4
+                    }
+                ]
+            },
+            "link": "/v3/places/52abde74b59b45275f15b587",
+            "place": {
+                "fsq_id": "52abde74b59b45275f15b587",
+                "categories": [
+                    {
+                        "id": 17000,
+                        "name": "Retail",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "distance": 3786,
+                "geocodes": {
+                    "main": {
+                        "latitude": 46.869,
+                        "longitude": -96.807403
+                    },
+                    "roof": {
+                        "latitude": 46.869,
+                        "longitude": -96.807403
+                    }
+                },
+                "location": {
+                    "address": "4101 13th Ave S",
+                    "census_block": "380170008021004",
+                    "country": "US",
+                    "dma": "Fargo-Valley City",
+                    "formatted_address": "4101 13th Ave S, Fargo, ND 58103",
+                    "locality": "Fargo",
+                    "postcode": "58103",
+                    "region": "ND"
+                },
+                "name": "Crafters Mall Crafts by Hand"
+            }
+        },
+        {
+            "type": "address",
+            "text": {
+                "primary": "1511 18th St Ofc MALL",
+                "secondary": "Spirit Lake IA 51360",
+                "highlight": [
+                    {
+                        "start": 17,
+                        "length": 4
+                    }
+                ]
+            },
+            "link": "/v3/address/US-5553415700000717cd3f-MALL",
+            "address": {
+                "address_id": "US-5553415700000717cd3f-MALL"
+            }
+        },
+        {
+            "type": "search",
+            "text": {
+                "primary": "Shopping Malls",
+                "secondary": "Search Nearby",
+                "highlight": [
+                    {
+                        "start": 9,
+                        "length": 4
+                    }
+                ]
+            },
+            "link": "/v3/places/search?ll=46.90244%2C-96.7978&radius=4000&categories=17114",
+            "search": {
+                "category": {
+                    "id": 17114,
+                    "name": "Shopping Malls"
+                }
+            }
+        },
+        {
+            "type": "address",
+            "text": {
+                "primary": "711 Louisiana St Ste MALL",
+                "secondary": "Houston TX 77002",
+                "highlight": [
+                    {
+                        "start": 21,
+                        "length": 4
+                    }
+                ]
+            },
+            "link": "/v3/address/US-5553415700000ce037b2-MALL",
+            "address": {
+                "address_id": "US-5553415700000ce037b2-MALL"
+            }
+        },
+        {
+            "type": "address",
+            "text": {
+                "primary": "1415 Louisiana St Ste MALL",
+                "secondary": "Houston TX 77002",
+                "highlight": [
+                    {
+                        "start": 22,
+                        "length": 4
+                    }
+                ]
+            },
+            "link": "/v3/address/US-5553415700000d680320-MALL",
+            "address": {
+                "address_id": "US-5553415700000d680320-MALL"
+            }
+        },
+        {
+            "type": "address",
+            "text": {
+                "primary": "49 E Broadway Frnt MALL",
+                "secondary": "New York NY 10002",
+                "highlight": [
+                    {
+                        "start": 19,
+                        "length": 4
+                    }
+                ]
+            },
+            "link": "/v3/address/US-5553415600000718f47d-MALL",
+            "address": {
+                "address_id": "US-5553415600000718f47d-MALL"
+            }
+        }
+    ]
+}
